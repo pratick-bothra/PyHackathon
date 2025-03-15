@@ -35,14 +35,14 @@ cd PyHackathon
 
 ### 3️⃣ Run the Assistant
 ```sh
-python 22BTRCB034.py
+python Hackathon_22BTRCB034.py
 ```
 or else select the code and hit run.
 
 ---
 
 ## 🎤 How to Use
-1. **Run the script** (`python VirtualAssistant.py`).
+1. **Run the script** (`python Hackathon_22BTRCB034.py`).
 2. **Give voice commands** like:
    - "Turn on the lights"
    - "What's the weather today?"
