@@ -3,8 +3,6 @@
 
 # 🤖 PyHackathon - AI Virtual Assistant
 
-Welcome to **PyHackathon**, an advanced AI-powered virtual assistant built with Python! 🎤💡 This assistant can recognize voice commands and perform tasks like smart home control, web searches, weather updates, and more!
-
 ---
 
 ## ✨ Features
@@ -37,7 +35,7 @@ cd PyHackathon
 
 ### 3️⃣ Run the Assistant
 ```sh
-python VirtualAssistant.py
+python 22BTRCB034.py
 ```
 or else select the code and hit run.
 
