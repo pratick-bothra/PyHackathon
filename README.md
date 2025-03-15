@@ -114,3 +114,7 @@ User Command: "Chat mode"
 Assistant Response: "Sure! Let's chat. Say 'exit chat' to stop."
 
 
+![image](https://github.com/user-attachments/assets/bc189446-4123-40a2-8f12-1d3849e69e65)
+
+
+
