@@ -81,36 +81,49 @@ A high-quality, free-to-use AI virtual assistant designed for an exceptional hac
 
 
 
+📌 Example Commands & Responses
 
-Example Commands & Responses :-
+User Command
 
-User Command: "Turn on the lights"
-Assistant Response: "Turning on the lights."
+Assistant Response
 
-User Command: "What's the weather in London?"
-Assistant Response: "The temperature in London is 15°C with clear skies."
+"Turn on the lights"
 
-User Command: "Search Google for Python programming"
-Assistant Response: "Searching for Python programming on Google."
+"Turning on the lights."
 
-User Command: "Play YouTube Despacito"
-Assistant Response: "Playing Despacito on YouTube."
+"What's the weather in London?"
 
-User Command: "Set an alarm for 7 AM"
-Assistant Response: "Alarm set for 7 AM."
+"The temperature in London is 15°C with clear skies."
 
-User Command: "Take a note: Buy groceries"
-Assistant Response: "Noted: Buy groceries."
+"Search Google for Python programming"
 
-User Command: "Read my notes"
-Assistant Response: "Your notes are: Buy groceries."
+"Searching for Python programming on Google."
 
-User Command: "Send an email"
-Assistant Response: "Who do you want to email? What should I say?"
+"Play YouTube Despacito"
 
-User Command: "Tell me a joke"
-Assistant Response: "Why don't scientists trust atoms? Because they make up everything!"
+"Playing Despacito on YouTube."
 
-User Command: "Chat mode"
-Assistant Response: "Sure! Let's chat. Say 'exit chat' to stop."
+"Set an alarm for 7 AM"
+
+"Alarm set for 7 AM."
+
+"Take a note: Buy groceries"
+
+"Noted: Buy groceries."
+
+"Read my notes"
+
+"Your notes are: Buy groceries."
+
+"Send an email"
+
+"Who do you want to email? What should I say?"
+
+"Tell me a joke"
+
+"Why don't scientists trust atoms? Because they make up everything!"
+
+"Chat mode"
+
+"Sure! Let's chat. Say 'exit chat' to stop."
 
