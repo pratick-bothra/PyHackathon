@@ -83,31 +83,34 @@ A high-quality, free-to-use AI virtual assistant designed for an exceptional hac
 
 📌 Example Commands & Responses
 
-User Command: "Turn on the lights"Assistant Response: "Turning on the lights."
+User Command: "Turn on the lights"
+Assistant Response: "Turning on the lights."
 
-User Command: "What's the weather in London?"Assistant Response: "The temperature in London is 15°C with clear skies."
+User Command: "What's the weather in London?"
+Assistant Response: "The temperature in London is 15°C with clear skies."
 
-User Command: "Search Google for Python programming"Assistant Response: "Searching for Python programming on Google."
+User Command: "Search Google for Python programming"
+Assistant Response: "Searching for Python programming on Google."
 
-User Command: "Play YouTube Despacito"Assistant Response: "Playing Despacito on YouTube."
+User Command: "Play YouTube Despacito"
+Assistant Response: "Playing Despacito on YouTube."
 
-User Command: "Set an alarm for 7 AM"Assistant Response: "Alarm set for 7 AM."
+User Command: "Set an alarm for 7 AM"
+Assistant Response: "Alarm set for 7 AM."
 
-User Command: "Take a note: Buy groceries"Assistant Response: "Noted: Buy groceries."
+User Command: "Take a note: Buy groceries"
+Assistant Response: "Noted: Buy groceries."
 
-User Command: "Read my notes"Assistant Response: "Your notes are: Buy groceries."
+User Command: "Read my notes"
+Assistant Response: "Your notes are: Buy groceries."
 
-User Command: "Send an email"Assistant Response: "Who do you want to email? What should I say?"
+User Command: "Send an email"
+Assistant Response: "Who do you want to email? What should I say?"
 
-User Command: "Tell me a joke"Assistant Response: "Why don't scientists trust atoms? Because they make up everything!"
+User Command: "Tell me a joke"
+Assistant Response: "Why don't scientists trust atoms? Because they make up everything!"
 
-User Command: "Chat mode"Assistant Response: "Sure! Let's chat. Say 'exit chat' to stop."
+User Command: "Chat mode"
+Assistant Response: "Sure! Let's chat. Say 'exit chat' to stop."
 
-
-
-"Why don't scientists trust atoms? Because they make up everything!"
-
-"Chat mode"
-
-"Sure! Let's chat. Say 'exit chat' to stop."
 
